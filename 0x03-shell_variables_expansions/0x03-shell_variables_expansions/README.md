@@ -1,1 +1,1 @@
-we getting rich
+shell variables
